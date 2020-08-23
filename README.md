@@ -19,9 +19,9 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 ```
 git clone https://github.com/korozaki/instax.git
 cd instax
-chmod +x instax.sh
+chmod +x instakiller.sh
 service tor start
-bash instax.sh
+bash instakiller.sh
 ```
 
 ### Install requirements (Curl, Tor, Openssl):
